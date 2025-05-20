@@ -1,0 +1,101 @@
+station,city,delay_minutes,date,route,passenger_load
+Südbahnhof,Hamburg,19,2025-04-02 12:00:00,RE Berlin-Hamburg,54
+Hauptbahnhof,Hamburg,16,2025-04-02 07:00:00,RE Berlin-Hamburg,71
+Südbahnhof,Hamburg,29,2025-04-01 08:00:00,ICE Munich-Frankfurt,78
+Südbahnhof,Berlin,16,2025-04-05 02:00:00,RE Berlin-Hamburg,52
+Hauptbahnhof,Hamburg,25,2025-04-01 18:00:00,ICE Munich-Frankfurt,61
+Hauptbahnhof,Hamburg,19,2025-04-02 23:00:00,RE Berlin-Hamburg,75
+Südbahnhof,Berlin,11,2025-04-04 07:00:00,ICE Munich-Frankfurt,65
+Zoo Station,Hamburg,29,2025-04-01 02:00:00,ICE Munich-Frankfurt,86
+Südbahnhof,Berlin,6,2025-04-01 19:00:00,RE Berlin-Hamburg,71
+Südbahnhof,Munich,1,2025-04-01 23:00:00,RE Berlin-Hamburg,78
+Südbahnhof,Hamburg,2,2025-04-03 05:00:00,RE Berlin-Hamburg,63
+Südbahnhof,Munich,16,2025-04-02 08:00:00,ICE Berlin-Munich,77
+Hauptbahnhof,Berlin,4,2025-04-01 23:00:00,ICE Berlin-Munich,54
+Südbahnhof,Hamburg,16,2025-04-04 02:00:00,ICE Berlin-Munich,96
+Zoo Station,Berlin,23,2025-04-03 23:00:00,ICE Munich-Frankfurt,98
+Hauptbahnhof,Munich,16,2025-04-02 11:00:00,RE Berlin-Hamburg,79
+Zoo Station,Berlin,26,2025-04-02 13:00:00,ICE Munich-Frankfurt,95
+Zoo Station,Hamburg,16,2025-04-04 11:00:00,ICE Berlin-Munich,54
+Zoo Station,Hamburg,1,2025-04-05 02:00:00,RE Berlin-Hamburg,61
+Zoo Station,Munich,1,2025-04-04 16:00:00,ICE Munich-Frankfurt,65
+Hauptbahnhof,Berlin,27,2025-04-05 02:00:00,RE Berlin-Hamburg,75
+Hauptbahnhof,Hamburg,21,2025-04-02 00:00:00,ICE Munich-Frankfurt,75
+Zoo Station,Munich,22,2025-04-04 20:00:00,RE Berlin-Hamburg,97
+Zoo Station,Hamburg,4,2025-04-01 17:00:00,ICE Berlin-Munich,70
+Hauptbahnhof,Hamburg,0,2025-04-04 09:00:00,ICE Berlin-Munich,88
+Hauptbahnhof,Berlin,0,2025-04-03 17:00:00,RE Berlin-Hamburg,85
+Hauptbahnhof,Hamburg,18,2025-04-03 05:00:00,ICE Munich-Frankfurt,82
+Südbahnhof,Berlin,29,2025-04-02 10:00:00,ICE Berlin-Munich,79
+Südbahnhof,Hamburg,1,2025-04-04 07:00:00,ICE Berlin-Munich,86
+Südbahnhof,Munich,20,2025-04-03 12:00:00,ICE Berlin-Munich,72
+Zoo Station,Hamburg,11,2025-04-02 16:00:00,RE Berlin-Hamburg,59
+Südbahnhof,Berlin,25,2025-04-05 03:00:00,RE Berlin-Hamburg,54
+Zoo Station,Berlin,5,2025-04-02 08:00:00,ICE Munich-Frankfurt,85
+Zoo Station,Munich,22,2025-04-03 19:00:00,ICE Munich-Frankfurt,83
+Südbahnhof,Hamburg,3,2025-04-02 08:00:00,ICE Munich-Frankfurt,80
+Zoo Station,Hamburg,22,2025-04-01 13:00:00,RE Berlin-Hamburg,59
+Südbahnhof,Munich,10,2025-04-01 20:00:00,RE Berlin-Hamburg,68
+Südbahnhof,Hamburg,23,2025-04-02 23:00:00,ICE Munich-Frankfurt,81
+Hauptbahnhof,Hamburg,26,2025-04-01 19:00:00,ICE Munich-Frankfurt,50
+Südbahnhof,Berlin,16,2025-04-01 07:00:00,RE Berlin-Hamburg,54
+Hauptbahnhof,Hamburg,5,2025-04-01 06:00:00,ICE Munich-Frankfurt,94
+Südbahnhof,Hamburg,23,2025-04-03 18:00:00,ICE Berlin-Munich,53
+Südbahnhof,Munich,4,2025-04-01 16:00:00,RE Berlin-Hamburg,65
+Hauptbahnhof,Munich,19,2025-04-02 08:00:00,ICE Munich-Frankfurt,73
+Hauptbahnhof,Berlin,1,2025-04-02 23:00:00,RE Berlin-Hamburg,65
+Südbahnhof,Hamburg,5,2025-04-04 03:00:00,ICE Berlin-Munich,51
+Zoo Station,Hamburg,21,2025-04-03 10:00:00,RE Berlin-Hamburg,98
+Hauptbahnhof,Hamburg,10,2025-04-04 13:00:00,RE Berlin-Hamburg,77
+Zoo Station,Berlin,15,2025-04-01 21:00:00,RE Berlin-Hamburg,81
+Zoo Station,Berlin,15,2025-04-02 05:00:00,RE Berlin-Hamburg,76
+Zoo Station,Munich,0,2025-04-02 13:00:00,ICE Berlin-Munich,69
+Hauptbahnhof,Berlin,8,2025-04-03 02:00:00,RE Berlin-Hamburg,73
+Zoo Station,Hamburg,27,2025-04-03 05:00:00,RE Berlin-Hamburg,61
+Hauptbahnhof,Hamburg,26,2025-04-01 07:00:00,ICE Munich-Frankfurt,99
+Zoo Station,Berlin,5,2025-04-02 02:00:00,RE Berlin-Hamburg,84
+Südbahnhof,Hamburg,15,2025-04-02 02:00:00,ICE Munich-Frankfurt,82
+Südbahnhof,Hamburg,28,2025-04-05 01:00:00,ICE Berlin-Munich,82
+Hauptbahnhof,Berlin,2,2025-04-01 20:00:00,ICE Berlin-Munich,92
+Südbahnhof,Berlin,19,2025-04-02 05:00:00,ICE Berlin-Munich,86
+Südbahnhof,Hamburg,27,2025-04-05 00:00:00,ICE Berlin-Munich,61
+Zoo Station,Hamburg,26,2025-04-02 03:00:00,ICE Munich-Frankfurt,52
+Hauptbahnhof,Hamburg,3,2025-04-03 15:00:00,RE Berlin-Hamburg,50
+Zoo Station,Munich,18,2025-04-05 00:00:00,ICE Berlin-Munich,82
+Zoo Station,Munich,25,2025-04-03 20:00:00,RE Berlin-Hamburg,89
+Zoo Station,Munich,2,2025-04-03 12:00:00,ICE Munich-Frankfurt,59
+Zoo Station,Berlin,18,2025-04-02 23:00:00,ICE Munich-Frankfurt,92
+Zoo Station,Munich,19,2025-04-01 18:00:00,ICE Munich-Frankfurt,93
+Zoo Station,Berlin,6,2025-04-01 03:00:00,ICE Berlin-Munich,78
+Zoo Station,Berlin,19,2025-04-02 10:00:00,RE Berlin-Hamburg,62
+Hauptbahnhof,Munich,8,2025-04-03 15:00:00,RE Berlin-Hamburg,61
+Südbahnhof,Munich,0,2025-04-03 00:00:00,RE Berlin-Hamburg,80
+Zoo Station,Munich,7,2025-04-01 16:00:00,ICE Munich-Frankfurt,95
+Zoo Station,Hamburg,6,2025-04-02 19:00:00,ICE Berlin-Munich,51
+Zoo Station,Munich,17,2025-04-04 19:00:00,ICE Munich-Frankfurt,99
+Zoo Station,Hamburg,7,2025-04-02 05:00:00,ICE Munich-Frankfurt,84
+Zoo Station,Berlin,0,2025-04-04 20:00:00,RE Berlin-Hamburg,72
+Zoo Station,Hamburg,10,2025-04-02 21:00:00,ICE Munich-Frankfurt,66
+Südbahnhof,Munich,27,2025-04-01 05:00:00,RE Berlin-Hamburg,75
+Südbahnhof,Berlin,24,2025-04-05 02:00:00,ICE Berlin-Munich,57
+Zoo Station,Berlin,24,2025-04-02 12:00:00,RE Berlin-Hamburg,78
+Südbahnhof,Berlin,17,2025-04-01 23:00:00,ICE Berlin-Munich,75
+Hauptbahnhof,Hamburg,22,2025-04-04 20:00:00,RE Berlin-Hamburg,59
+Zoo Station,Munich,29,2025-04-02 21:00:00,ICE Munich-Frankfurt,75
+Hauptbahnhof,Berlin,9,2025-04-03 04:00:00,ICE Munich-Frankfurt,83
+Hauptbahnhof,Berlin,2,2025-04-04 22:00:00,ICE Berlin-Munich,90
+Zoo Station,Berlin,6,2025-04-05 02:00:00,ICE Berlin-Munich,56
+Südbahnhof,Hamburg,27,2025-04-03 11:00:00,ICE Berlin-Munich,53
+Hauptbahnhof,Hamburg,15,2025-04-05 00:00:00,RE Berlin-Hamburg,99
+Zoo Station,Munich,25,2025-04-03 14:00:00,RE Berlin-Hamburg,94
+Hauptbahnhof,Hamburg,15,2025-04-04 12:00:00,ICE Berlin-Munich,60
+Hauptbahnhof,Berlin,24,2025-04-02 07:00:00,ICE Munich-Frankfurt,78
+Hauptbahnhof,Munich,19,2025-04-04 14:00:00,RE Berlin-Hamburg,85
+Hauptbahnhof,Berlin,27,2025-04-02 08:00:00,RE Berlin-Hamburg,74
+Südbahnhof,Berlin,16,2025-04-03 18:00:00,RE Berlin-Hamburg,70
+Hauptbahnhof,Hamburg,1,2025-04-01 17:00:00,ICE Berlin-Munich,85
+Hauptbahnhof,Munich,0,2025-04-02 00:00:00,ICE Berlin-Munich,59
+Hauptbahnhof,Hamburg,15,2025-04-04 22:00:00,ICE Berlin-Munich,86
+Südbahnhof,Hamburg,29,2025-04-03 05:00:00,ICE Berlin-Munich,58
+Hauptbahnhof,Munich,11,2025-04-03 09:00:00,ICE Berlin-Munich,73
+Hauptbahnhof,Berlin,4,2025-04-03 18:00:00,ICE Munich-Frankfurt,84
