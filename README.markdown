@@ -106,4 +106,4 @@ See `requirements.txt` for full details.
 MIT License
 
 ---
-Built with ❤️ by [Kapil Adhikari]. Contributions welcome!
+Built with ❤️ by Kapil Adhikari. Contributions welcome!
