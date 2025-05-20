@@ -88,10 +88,6 @@ The app tests two visualizations for the delay distribution:
 - **Scalability**: CSV logging is simple but not robust. Consider a database (e.g., SQLite, Firebase) for large-scale testing.
 - **Enhancements**: Add date filters, predictive models (e.g., delay forecasting), or test additional UI elements (e.g., map styles).
 
-## Screenshot
-
-*Add a screenshot of the app here (e.g., `screenshot.png`)*
-
 ## Dependencies
 
 - Streamlit
